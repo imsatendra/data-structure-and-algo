@@ -5,3 +5,5 @@ i m msit's student
 
 i changed this file , now let us see the changes by writing 
 git status
+
+modified => git add => staged
